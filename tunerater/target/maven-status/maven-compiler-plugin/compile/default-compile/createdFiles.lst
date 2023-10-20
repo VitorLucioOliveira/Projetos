@@ -6,9 +6,11 @@ VIEW\frmLoginVIEW$1.class
 VIEW\frmLoginVIEW.class
 DAO\UsuarioDAO.class
 DAO\conexaoDAO.class
+VIEW\frmCadastroVIEW$5.class
 VIEW\frmCadastroVIEW.class
 VIEW\frmCadastroVIEW$1.class
 VIEW\frmPrincipalVIEW.class
+VIEW\frmLoginVIEW$4.class
 VIEW\frmCadastroVIEW$2.class
 VIEW\frmLoginVIEW$3.class
 VIEW\frmPrincipalVIEW$1.class

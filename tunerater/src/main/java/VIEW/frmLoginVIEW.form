@@ -23,16 +23,26 @@
   <Layout>
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
-          <Group type="102" alignment="0" attributes="0">
-              <EmptySpace min="-2" pref="72" max="-2" attributes="0"/>
-              <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                  <Component id="jLabel2" alignment="0" min="-2" pref="141" max="-2" attributes="0"/>
-                  <Component id="txtEmailUsuario" max="32767" attributes="0"/>
-                  <Component id="btnEntrarSistema" max="32767" attributes="0"/>
-                  <Component id="jLabel1" alignment="0" pref="166" max="32767" attributes="0"/>
-                  <Component id="txtSenhaUsuario" max="32767" attributes="0"/>
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="72" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jLabel2" alignment="0" min="-2" pref="141" max="-2" attributes="0"/>
+                          <Component id="txtEmailUsuario" max="32767" attributes="0"/>
+                          <Component id="btnEntrarSistema" max="32767" attributes="0"/>
+                          <Component id="jLabel1" alignment="0" pref="166" max="32767" attributes="0"/>
+                          <Component id="txtSenhaUsuario" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="51" max="-2" attributes="0"/>
+                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="btnEntrarCadastro" min="-2" pref="101" max="-2" attributes="0"/>
+                  </Group>
               </Group>
-              <EmptySpace pref="162" max="32767" attributes="0"/>
+              <EmptySpace pref="146" max="32767" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
@@ -49,7 +59,12 @@
               <Component id="txtSenhaUsuario" min="-2" max="-2" attributes="0"/>
               <EmptySpace type="separate" max="-2" attributes="0"/>
               <Component id="btnEntrarSistema" min="-2" max="-2" attributes="0"/>
-              <EmptySpace pref="94" max="32767" attributes="0"/>
+              <EmptySpace pref="53" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btnEntrarCadastro" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
@@ -85,6 +100,19 @@
       </Events>
     </Component>
     <Component class="javax.swing.JPasswordField" name="txtSenhaUsuario">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnEntrarCadastro">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Criar Conta"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnEntrarCadastroActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="N&#xe3;o tem Cadastro?"/>
+      </Properties>
     </Component>
   </SubComponents>
 </Form>

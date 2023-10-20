@@ -37,6 +37,8 @@ public class frmLoginVIEW extends javax.swing.JFrame {
         jLabel2 = new javax.swing.JLabel();
         btnEntrarSistema = new javax.swing.JToggleButton();
         txtSenhaUsuario = new javax.swing.JPasswordField();
+        btnEntrarCadastro = new javax.swing.JButton();
+        jLabel3 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -59,19 +61,35 @@ public class frmLoginVIEW extends javax.swing.JFrame {
             }
         });
 
+        btnEntrarCadastro.setText("Criar Conta");
+        btnEntrarCadastro.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnEntrarCadastroActionPerformed(evt);
+            }
+        });
+
+        jLabel3.setText("Não tem Cadastro?");
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addGap(72, 72, 72)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(jLabel2, javax.swing.GroupLayout.PREFERRED_SIZE, 141, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(txtEmailUsuario)
-                    .addComponent(btnEntrarSistema, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel1, javax.swing.GroupLayout.DEFAULT_SIZE, 166, Short.MAX_VALUE)
-                    .addComponent(txtSenhaUsuario))
-                .addContainerGap(162, Short.MAX_VALUE))
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(72, 72, 72)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                            .addComponent(jLabel2, javax.swing.GroupLayout.PREFERRED_SIZE, 141, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(txtEmailUsuario)
+                            .addComponent(btnEntrarSistema, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel1, javax.swing.GroupLayout.DEFAULT_SIZE, 166, Short.MAX_VALUE)
+                            .addComponent(txtSenhaUsuario)))
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(51, 51, 51)
+                        .addComponent(jLabel3)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(btnEntrarCadastro, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                .addContainerGap(146, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -86,7 +104,11 @@ public class frmLoginVIEW extends javax.swing.JFrame {
                 .addComponent(txtSenhaUsuario, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(18, 18, 18)
                 .addComponent(btnEntrarSistema)
-                .addContainerGap(94, Short.MAX_VALUE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 53, Short.MAX_VALUE)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(btnEntrarCadastro)
+                    .addComponent(jLabel3))
+                .addGap(18, 18, 18))
         );
 
         pack();
@@ -100,6 +122,12 @@ public class frmLoginVIEW extends javax.swing.JFrame {
         Logar();
 
     }//GEN-LAST:event_btnEntrarSistemaActionPerformed
+
+    private void btnEntrarCadastroActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnEntrarCadastroActionPerformed
+            frmCadastroVIEW objfrmcadastroview = new frmCadastroVIEW();
+                objfrmcadastroview.setVisible(true);
+                dispose();
+    }//GEN-LAST:event_btnEntrarCadastroActionPerformed
 
     /**
      * @param args the command line arguments
@@ -137,9 +165,11 @@ public class frmLoginVIEW extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton btnEntrarCadastro;
     private javax.swing.JToggleButton btnEntrarSistema;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel3;
     private javax.swing.JTextField txtEmailUsuario;
     private javax.swing.JPasswordField txtSenhaUsuario;
     // End of variables declaration//GEN-END:variables
