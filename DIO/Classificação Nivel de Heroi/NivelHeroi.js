@@ -8,7 +8,7 @@ var xp = parseInt(prompt("XP do Heroi: "));
 var nivel = 0;
 
 
-  if(xp> 1.001 && xp < 2.0000)
+  if(xp <1.00)
     nivel = "Ferro";
     
 
