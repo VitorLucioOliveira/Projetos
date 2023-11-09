@@ -10,7 +10,7 @@
 
      ![code](https://github.com/VitorLucioOliveira/Teste_dti/assets/130071272/9d841904-6573-42ad-80b3-3cc1fa08d8f4)
 
-* Inicie a aplicação `ToDoAppAplication.java`.
+* Inicie a aplicação `ToDoAppAplication.java` em `To-do-app/src/main/java/com/example/Todoapp/ToDoAppApplication.java`.
 * Entre em "localhost:8080" ou "localhost:(porta indicada)" em seu navegador.
 
  
