@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE-edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cadastro</title>
+    <link rel="stylesheet" href="main.css" />
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <a href="cadastro.html"><img src="img/logo.png" alt="Logo" /></a>
+            </div>
+
+            <ul>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="page">
+        <h2>Criar uma conta</h2>
+        <form method="POST" class="formCadastro" id="formCadastro">
+        
+            <label for="name">Nome</label>
+            <input type="text" id="name" placeholder="Digite seu nome de usuário" autofocus="true" />
+
+            <label for="email">E-mail</label>
+            <input type="email" id="email" placeholder="Digite seu e-mail" autofocus="true" />
+
+            <label for="password">Senha</label>
+            <input type="password" id="password" placeholder="Digite senha" />
+
+            <label for="confirmPassword">Confirme sua senha</label>
+            <input type="password" id="confirmPassword" placeholder="Digite senha" autofocus="true" />
+
+            <a href="login.html">Já possui cadastro?</a>
+
+            <input type="submit" value="Confirmar cadastro" class="btn" />
+            <div id="error-message" style="color: red;">
+            </div><div id="success-message" style="color: green;"></div>
+            <div id="progress-container">
+                <progress id="progress" value="0" max="100" style="display: none;"></progress>
+            </div>
+            
+        </form>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="cadastro.js"></script>
+</body>
+
+</html>

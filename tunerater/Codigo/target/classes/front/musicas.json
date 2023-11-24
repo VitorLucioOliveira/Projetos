@@ -1,0 +1,1222 @@
+[
+  {
+    "id": 1,
+    "cantor": "Hozier",
+    "musica": "Like Real People Do",
+    "genero": "Pop",
+    "sexo": "Masculino",
+    "bpm": 120,
+    "historico": 1
+  },
+  {
+    "id": 2,
+    "cantor": "Taylor Swift",
+    "musica": "Style",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 132
+  },
+  {
+    "id": 3,
+    "cantor": "taylor Swift",
+    "musica": "Karma",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 132
+  },
+  {
+    "id": 4,
+    "cantor": "Taylor Swift",
+    "musica": "Red",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 135
+  },
+  {
+    "id": 5,
+    "cantor": "Taylor Swift",
+    "musica": "Cruel Summer",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 130,
+    "historico": 1
+  },
+  {
+    "id": 6,
+    "cantor": "Taylor Swift",
+    "musica": "august",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 110
+  },
+  {
+    "id": 7,
+    "cantor": "Taylor Swift",
+    "musica": "Blank Space",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 135
+  },
+  {
+    "id": 8,
+    "cantor": "Taylor Swift",
+    "musica": "Love Story",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 120
+  },
+  {
+    "id": 9,
+    "cantor": "Taylor Swift",
+    "musica": "Enchanted",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 120
+  },
+  {
+    "id": 10,
+    "cantor": "Taylor Swift",
+    "musica": "Dont Blame Me",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 134
+  },
+  {
+    "id": 11,
+    "cantor": "Taylor Swift",
+    "musica": "cardigan",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 120
+  },
+  {
+    "id": 12,
+    "cantor": "taylor Swift",
+    "musica": "cowboy like me",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 120
+  },
+  {
+    "id": 13,
+    "cantor": "Taylor Swift",
+    "musica": "Lover",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 130
+  },
+  {
+    "id": 14,
+    "cantor": "Taylor Swift",
+    "musica": "The Archer",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 120
+  },
+  {
+    "id": 15,
+    "cantor": "Taylor Swift",
+    "musica": "Our Song",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 130
+  },
+  {
+    "id": 16,
+    "cantor": "Beyoncé",
+    "musica": "CUFF IT",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 136
+  },
+  {
+    "id": 17,
+    "cantor": "Beyoncé",
+    "musica": "Crazy In Love",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 150
+  },
+  {
+    "id": 18,
+    "cantor": "Beyoncé",
+    "musica": "AMERICA IS A PROBLEM",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 145
+  },
+  {
+    "id": 19,
+    "cantor": "Beyoncé",
+    "musica": "ALIEN SUPERSTAR",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 140
+  },
+  {
+    "id": 20,
+    "cantor": "Beyoncé",
+    "musica": "Run The World (Girls)",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 130
+  },
+  {
+    "id": 21,
+    "cantor": "Beyoncé",
+    "musica": "Formation",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 140
+  },
+  {
+    "id": 22,
+    "cantor": "Beyoncé",
+    "musica": "PURE/HONEY",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 132
+  },
+  {
+    "id": 23,
+    "cantor": "Beyoncé",
+    "musica": "Single Ladies",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 132
+  },
+  {
+    "id": 24,
+    "cantor": "Beyoncé",
+    "musica": "Deja Vu",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 122
+  },
+  {
+    "id": 25,
+    "cantor": "Beyoncé",
+    "musica": "Love On Top",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 131
+  },
+  {
+    "id": 26,
+    "cantor": "Beyoncé",
+    "musica": "Partition",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 115
+  },
+  {
+    "id": 27,
+    "cantor": "Beyoncé",
+    "musica": "COZY",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 130
+  },
+  {
+    "id": 28,
+    "cantor": "Beyoncé",
+    "musica": "Hold Up",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 120
+  },
+  {
+    "id": 29,
+    "cantor": "Beyoncé",
+    "musica": "Baby Boy",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 130
+  },
+  {
+    "id": 30,
+    "cantor": "Beyoncé",
+    "musica": "If I Wore a Boy",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 122
+  },
+  {
+    "id": 31,
+    "cantor": "The Weeknd",
+    "musica": "Starboy",
+    "genero": "Pop",
+    "sexo": "Masculino",
+    "bpm": 140
+  },
+  {
+    "id": 32,
+    "cantor": "The Weeknd",
+    "musica": "Popular",
+    "genero": "Pop",
+    "sexo": "Masculino",
+    "bpm": 130
+  },
+  {
+    "id": 33,
+    "cantor": "The Weeknd",
+    "musica": "Die For You",
+    "genero": "Pop",
+    "sexo": "Masculino",
+    "bpm": 120
+  },
+  {
+    "id": 34,
+    "cantor": "The Weeknd",
+    "musica": "Blinding Lights",
+    "genero": "Pop",
+    "sexo": "Masculino",
+    "bpm": 130
+  },
+  {
+    "id": 35,
+    "cantor": "The Weeknd",
+    "musica": "The Hills",
+    "genero": "Pop",
+    "sexo": "Masculino",
+    "bpm": 135
+  },
+  {
+    "id": 36,
+    "cantor": "The Weeknd",
+    "musica": "Sacrifice",
+    "genero": "Pop",
+    "sexo": "Masculino",
+    "bpm": 122
+  },
+  {
+    "id": 37,
+    "cantor": "The Weeknd",
+    "musica": "Heartless",
+    "genero": "Pop",
+    "sexo": "Masculino",
+    "bpm": 130
+  },
+  {
+    "id": 38,
+    "cantor": "The Weeknd",
+    "musica": "Out of Time",
+    "genero": "Pop",
+    "sexo": "Masculino",
+    "bpm": 120
+  },
+  {
+    "id": 39,
+    "cantor": "The Weeknd",
+    "musica": "Pray For Me",
+    "genero": "Pop",
+    "sexo": "Masculino",
+    "bpm": 135
+  },
+  {
+    "id": 40,
+    "cantor": "The Weeknd",
+    "musica": "In The Night",
+    "genero": "Pop",
+    "sexo": "Masculino",
+    "bpm": 135
+  },
+  {
+    "id": 41,
+    "cantor": "The Weeknd",
+    "musica": "Less Than Zero",
+    "genero": "Pop",
+    "sexo": "Masculino",
+    "bpm": 135
+  },
+  {
+    "id": 42,
+    "cantor": "Harry Styles",
+    "musica": "Only Angel",
+    "genero": "Pop",
+    "sexo": "Masculino",
+    "bpm": 130
+  },
+  {
+    "id": 43,
+    "cantor": "Harry Styles",
+    "musica": "As It Was",
+    "genero": "Pop",
+    "sexo": "Masculino",
+    "bpm": 120
+  },
+  {
+    "id": 44,
+    "cantor": "Harry Styles",
+    "musica": "Adore You",
+    "genero": "Pop",
+    "sexo": "Masculino",
+    "bpm": 130
+  },
+  {
+    "id": 45,
+    "cantor": "Harry Styles",
+    "musica": "Daylight",
+    "genero": "Pop",
+    "sexo": "Masculino",
+    "bpm": 135
+  },
+  {
+    "id": 46,
+    "cantor": "Adele",
+    "musica": "Skyfall",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 122
+  },
+  {
+    "id": 47,
+    "cantor": "Adele",
+    "musica": "Set Fire to the Rain",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 130
+  },
+  {
+    "id": 48,
+    "cantor": "Adele",
+    "musica": "Rolling in the Deep",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 120
+  },
+  {
+    "id": 49,
+    "cantor": "Adele",
+    "musica": "Someone Like You",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 135
+  },
+  {
+    "id": 50,
+    "cantor": "Adele",
+    "musica": "Love In The Dark",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 135
+  },
+  {
+    "id": 51,
+    "cantor": "Rihanna",
+    "musica": "Umbrella",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 122
+  },
+  {
+    "id": 52,
+    "cantor": "Rihanna",
+    "musica": "Needed Me",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 130
+  },
+  {
+    "id": 53,
+    "cantor": "Rihanna",
+    "musica": "Only Girl (In The World)",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 120
+  },
+  {
+    "id": 54,
+    "cantor": "Rihanna",
+    "musica": "Don't Stop The Music",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 135
+  },
+  {
+    "id": 55,
+    "cantor": "Rihanna",
+    "musica": "Stay",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 135
+  },
+  {
+    "id": 56,
+    "cantor": "Rihanna",
+    "musica": "Kiss It Better",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 122
+  },
+  {
+    "id": 57,
+    "cantor": "Rihanna",
+    "musica": "Work",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 130
+  },
+  {
+    "id": 58,
+    "cantor": "Rihanna",
+    "musica": "SOS",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 120
+  },
+  {
+    "id": 59,
+    "cantor": "Rihanna",
+    "musica": "Woo",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 145
+  },
+  {
+    "id": 60,
+    "cantor": "Rihanna",
+    "musica": "Where Have You Been",
+    "genero": "Pop",
+    "sexo": "Feminino",
+    "bpm": 135
+  },
+  {
+    "id": 61,
+    "cantor": "Phoebe Bridgers",
+    "musica": "Motion Sickness",
+    "genero": "Indie",
+    "sexo": "Feminino",
+    "bpm": 107
+  },
+  {
+    "id": 62,
+    "cantor": "Phoebe Bridgers",
+    "musica": "I Know The End",
+    "genero": "Indie",
+    "sexo": "Feminino",
+    "bpm": 111
+  },
+  {
+    "id": 63,
+    "cantor": "Phoebe Bridgers",
+    "musica": "Kyoto",
+    "genero": "Indie",
+    "sexo": "Feminino",
+    "bpm": 131
+  },
+  {
+    "id": 64,
+    "cantor": "Mitski",
+    "musica": "My Love My All Mine",
+    "genero": "Indie",
+    "sexo": "Feminino",
+    "bpm": 111
+  },
+  {
+    "id": 65,
+    "cantor": "Mitski",
+    "musica": "I Bet on Losing Dogs",
+    "genero": "Indie",
+    "sexo": "Feminino",
+    "bpm": 82
+  },
+  {
+    "id": 66,
+    "cantor": "Mitski",
+    "musica": "Washing Machine Heart",
+    "genero": "Indie",
+    "sexo": "Feminino",
+    "bpm": 111
+  },
+  {
+    "id": 67,
+    "cantor": "Lana Del Rey",
+    "musica": "Born to Die",
+    "genero": "Indie",
+    "sexo": "Feminino",
+    "bpm": 86
+  },
+  {
+    "id": 68,
+    "cantor": "Lana Del Rey",
+    "musica": "Lust For Life",
+    "genero": "Indie",
+    "sexo": "Feminino",
+    "bpm": 100
+  },
+  {
+    "id": 69,
+    "cantor": "Lana Del Rey",
+    "musica": "Say Yes to Heaven",
+    "genero": "Indie",
+    "sexo": "Feminino",
+    "bpm": 100
+  },
+  {
+    "id": 70,
+    "cantor": "Hozier",
+    "musica": "Work Song",
+    "genero": "Indie",
+    "sexo": "Masculino",
+    "bpm": 121
+  },
+  {
+    "id": 71,
+    "cantor": "Hozier",
+    "musica": "Would That I",
+    "genero": "Indie",
+    "sexo": "Masculino",
+    "bpm": 131
+  },
+  {
+    "id": 72,
+    "cantor": "Hozier",
+    "musica": "Wasteland, Baby!",
+    "genero": "Indie",
+    "sexo": "Masculino",
+    "bpm": 169
+  },
+  {
+    "id": 73,
+    "cantor": "The 1975",
+    "musica": "Somebody Else",
+    "genero": "Indie",
+    "sexo": "Masculino",
+    "bpm": 101
+  },
+  {
+    "id": 74,
+    "cantor": "The 1975",
+    "musica": "About You",
+    "genero": "Indie",
+    "sexo": "Masculino",
+    "bpm": 96
+  },
+  {
+    "id": 75,
+    "cantor": "The 1975",
+    "musica": "Chocolate",
+    "genero": "Indie",
+    "sexo": "Masculino",
+    "bpm": 100
+  },
+  {
+    "id": 76,
+    "cantor": "Arctic Monkeys",
+    "musica": "Arabella",
+    "genero": "Indie",
+    "sexo": "Masculino",
+    "bpm": 180
+},
+{
+    "id": 77,
+    "cantor": "Arctic Monkeys",
+    "musica": "I Bet You Look Good on The Dance Floor",
+    "genero": "Indie",
+    "sexo": "Masculino",
+    "bpm": 103
+},
+{
+    "id": 78,
+    "cantor": "Arctic Monkeys",
+    "musica": "Flourescent Adolescent",
+    "genero": "Indie",
+    "sexo": "Masculino",
+    "bpm": 112
+},
+{
+    "id": 79,
+    "cantor": "Hole",
+    "musica": "Doll Parts",
+    "genero": "Rock",
+    "sexo": "Feminino",
+    "bpm": 205
+},
+{
+    "id": 80,
+    "cantor": "Hole",
+    "musica": "Violet",
+    "genero": "Rock",
+    "sexo": "Feminino",
+    "bpm": 167
+},
+{
+    "id": 81,
+    "cantor": "The Cranberries",
+    "musica": "Linger",
+    "genero": "Rock",
+    "sexo": "Feminino",
+    "bpm": 95
+},
+{
+    "id": 82,
+    "cantor": "The Cranberries",
+    "musica": "Dreams",
+    "genero": "Rock",
+    "sexo": "Feminino",
+    "bpm": 129
+},
+{
+    "id": 83,
+    "cantor": "Nirvana",
+    "musica": "Heart Shaped Box",
+    "genero": "Rock",
+    "sexo": "Masculino",
+    "bpm": 203
+},
+{
+    "id": 84,
+    "cantor": "Nirvana",
+    "musica": "In Bloom",
+    "genero": "Rock",
+    "sexo": "Masculino",
+    "bpm": 157
+},
+{
+    "id": 85,
+    "cantor": "Guns n Roses",
+    "musica": "November Rain",
+    "genero": "Rock",
+    "sexo": "Masculino",
+    "bpm": 80
+},
+{
+    "id": 86,
+    "cantor": "Guns n Roses",
+    "musica": "Paradise City",
+    "genero": "Rock",
+    "sexo": "Masculino",
+    "bpm": 100
+},
+{
+    "id": 87,
+    "cantor": "Oasis",
+    "musica": "Don't Look Back in Anger",
+    "genero": "Rock",
+    "sexo": "Masculino",
+    "bpm": 164
+},
+{
+    "id": 88,
+    "cantor": "Blur",
+    "musica": "Song 2",
+    "genero": "Rock",
+    "sexo": "Masculino",
+    "bpm": 130
+},
+{
+    "id": 89,
+    "cantor": "Metallica",
+    "musica": "Enter Sandman",
+    "genero": "Rock",
+    "sexo": "Masculino",
+    "bpm": 123
+},
+{
+    "id": 90,
+    "cantor": "The Beatles",
+    "musica": "Come Together",
+    "genero": "Rock",
+    "sexo": "Masculino",
+    "bpm": 165
+},
+{
+    "id": 91,
+    "cantor": "Queen",
+    "musica": "Killer Queen",
+    "genero": "Rock",
+    "sexo": "Masculino",
+    "bpm": 177
+},
+{
+    "id": 92,
+    "cantor": "Maneskin",
+    "musica": "Torna a Casa",
+    "genero": "Rock",
+    "sexo": "Masculino",
+    "bpm": 81
+},
+{
+    "id": 93,
+    "cantor": "Gorillaz",
+    "musica": "DARE",
+    "genero": "Rock",
+    "sexo": "Masculino",
+    "bpm": 120
+},
+{
+    "id": 94,
+    "cantor": "Gorillaz",
+    "musica": "She's My Collar",
+    "genero": "Rock",
+    "sexo": "Masculino",
+    "bpm": 140
+},
+{
+    "id": 95,
+    "cantor": "Radiohead",
+    "musica": "No Surprises",
+    "genero": "Rock",
+    "sexo": "Masculino",
+    "bpm": 76
+},
+{
+    "id": 96,
+    "cantor": "Radiohead",
+    "musica": "How to Disappear Completely",
+    "genero": "Rock",
+    "sexo": "Masculino",
+    "bpm": 102
+},
+{
+    "id": 97,
+    "cantor": "BTS",
+    "musica": "Save Me",
+    "genero": "K-pop",
+    "sexo": "Masculino",
+    "bpm": 140
+},
+{
+    "id": 98,
+    "cantor": "BTS",
+    "musica": "I Need You",
+    "genero": "K-pop",
+    "sexo": "Masculino",
+    "bpm": 158
+},
+{
+    "id": 99,
+    "cantor": "BTS",
+    "musica": "N.O",
+    "genero": "K-pop",
+    "sexo": "Masculino",
+    "bpm": 158
+},
+{
+    "id": 100,
+    "cantor": "EXO",
+    "musica": "Call Me Baby",
+    "genero": "K-pop",
+    "sexo": "Masculino",
+    "bpm": 100,
+    "historico": 1
+},
+{
+    "id": 101,
+    "cantor": "EXO",
+    "musica": "Lotto",
+    "genero": "K-pop",
+    "sexo": "Masculino",
+    "bpm": 100
+},
+{
+    "id": 102,
+    "cantor": "SHINee",
+    "musica": "Lucifer",
+    "genero": "K-pop",
+    "sexo": "Masculino",
+    "bpm": 125
+},
+{
+    "id": 103,
+    "cantor": "Super Junior",
+    "musica": "Mamacita",
+    "genero": "K-pop",
+    "sexo": "Masculino",
+    "bpm": 102
+},
+{
+    "id": 104,
+    "cantor": "LOONA",
+    "musica": "Butterfly",
+    "genero": "K-pop",
+    "sexo": "Feminino",
+    "bpm": 107
+},
+{
+    "id": 105,
+    "cantor": "LOONA",
+    "musica": "Why Not?",
+    "genero": "K-pop",
+    "sexo": "Feminino",
+    "bpm": 128
+},
+{
+    "id": 106,
+    "cantor": "CHUU",
+    "musica": "Heart Attack",
+    "genero": "K-pop",
+    "sexo": "Feminino",
+    "bpm": 99
+},
+{
+    "id": 107,
+    "cantor": "OMG",
+    "musica": "New Jeans",
+    "genero": "K-pop",
+    "sexo": "Feminino",
+    "bpm": 127
+},
+{
+    "id": 108,
+    "cantor": "OMG",
+    "musica": "Hype Boy",
+    "genero": "K-pop",
+    "sexo": "Feminino",
+    "bpm": 100
+},
+{
+    "id": 109,
+    "cantor": "OMG",
+    "musica": "Attention",
+    "genero": "K-pop",
+    "sexo": "Feminino",
+    "bpm": 105
+},
+{
+    "id": 110,
+    "cantor": "Twice",
+    "musica": "The Feels",
+    "genero": "K-pop",
+    "sexo": "Feminino",
+    "bpm": 120
+},
+{
+    "id": 111,
+    "cantor": "Twice",
+    "musica": "What is Love",
+    "genero": "K-pop",
+    "sexo": "Feminino",
+    "bpm": 170
+},
+{
+    "id": 112,
+    "cantor": "Red Velvet",
+    "musica": "Psycho",
+    "genero": "K-pop",
+    "sexo": "Feminino",
+    "bpm": 140
+},
+{
+    "id": 113,
+    "cantor": "Red Velvet",
+    "musica": "Bad Boy",
+    "genero": "K-pop",
+    "sexo": "Feminino",
+    "bpm": 150
+},
+{
+    "id": 114,
+    "cantor": "BLACKPINK",
+    "musica": "Shut Down",
+    "genero": "K-pop",
+    "sexo": "Feminino",
+    "bpm": 110
+},
+{
+    "id": 115,
+    "cantor": "New Jeans",
+    "musica": "Cool With You",
+    "genero": "K-pop",
+    "sexo": "Feminino",
+    "bpm": 135
+},
+{
+    "id": 116,
+    "cantor": "New Jeans",
+    "musica": "Get Up",
+    "genero": "K-pop",
+    "sexo": "Feminino",
+    "bpm": 85
+},
+{
+    "id": 117,
+    "cantor": "4Minute",
+    "musica": "Crazy",
+    "genero": "K-pop",
+    "sexo": "Feminino",
+    "bpm": 176
+},
+{
+    "id": 118,
+    "cantor": "2NE1",
+    "musica": "I Am The Best",
+    "genero": "K-pop",
+    "sexo": "Feminino",
+    "bpm": 128
+},
+{
+    "id": 119,
+    "cantor": "Swan Lake",
+    "musica": "Piotr Ilitch Tchaikovski",
+    "genero": "Classica",
+    "sexo": "Masculino",
+    "bpm": 58
+},
+{
+    "id": 120,
+    "cantor": "Romeu and Juliet",
+    "musica": "Sergei Prokofiev",
+    "genero": "Classica",
+    "sexo": "Masculino",
+    "bpm": 86,
+    "historico": 1
+},
+{
+    "id": 121,
+    "cantor": "Paganini: 24 Caprices",
+    "musica": "Niccolo Paganini",
+    "genero": "Clássica",
+    "sexo": "Masculino",
+    "bpm": 111
+},
+{
+    "id": 122,
+    "cantor": "Strings Con Fuoco",
+    "musica": "Nicholas Britell",
+    "genero": "Clássica",
+    "sexo": "Masculino",
+    "bpm": 86
+},
+{
+    "id": 123,
+    "cantor": "Andante Agitato",
+    "musica": "Nicholas Britell",
+    "genero": "Clássica",
+    "sexo": "Masculino",
+    "bpm": 99
+},
+{
+    "id": 124,
+    "cantor": "Piano Concerto no. 21",
+    "musica": "Mozart",
+    "genero": "Clássica",
+    "sexo": "Masculino",
+    "bpm": 128
+},
+{
+    "id": 125,
+    "cantor": "Fur Elise",
+    "musica": "Beethoven",
+    "genero": "Clássica",
+    "sexo": "Masculino",
+    "bpm": 128
+},
+{
+    "id": 126,
+    "cantor": "Rita Lee",
+    "musica": "Lança Perfume",
+    "genero": "MPB",
+    "sexo": "Feminino",
+    "bpm": 125
+},
+{
+    "id": 127,
+    "cantor": "Rita Lee",
+    "musica": "Mania de Você",
+    "genero": "MPB",
+    "sexo": "Feminino",
+    "bpm":115
+},
+{
+    "id": 128,
+    "cantor": "Rita Lee",
+    "musica": "Caso Sério",
+    "genero": "MPB",
+    "sexo": "Feminino",
+    "bpm": 123
+},
+{
+    "id": 129,
+    "cantor": "Gal Costa",
+    "musica": "Lágrimas Negras",
+    "genero": "MPB",
+    "sexo": "Feminino",
+    "bpm": 90
+},
+{
+    "id": 130,
+    "cantor": "Gal Costa",
+    "musica": "Baby",
+    "genero": "MPB",
+    "sexo": "Feminino",
+    "bpm": 113
+},
+{
+    "id": 131,
+    "cantor": "Cazuza",
+    "musica": "Boa Vida",
+    "genero": "MPB",
+    "sexo": "Masculino",
+    "bpm": 175
+},
+{
+    "id": 132,
+    "cantor": "Charlie Brown Jr.",
+    "musica": "Zóio de Lua",
+    "genero": "MPB",
+    "sexo": "Masculino",
+    "bpm": 152
+},
+{
+    "id": 133,
+    "cantor": "Jorge Ben Jor",
+    "musica": "Oba, Lá Vem Ela",
+    "genero": "MPB",
+    "sexo": "Masculino",
+    "bpm": 99
+},
+{
+    "id": 134,
+    "cantor": "Novos Baianos",
+    "musica": "Brasil Pandeiro",
+    "genero": "MPB",
+    "sexo": "Masculino",
+    "bpm": 98
+},
+{
+    "id": 135,
+    "cantor": "Novos Baianos",
+    "musica": "Mistério do Planeta",
+    "genero": "MPB",
+    "sexo": "Masculino",
+    "bpm": 147
+},
+{
+    "id": 136,
+    "cantor": "Nicki Minaj",
+    "musica": "Va Va Voom",
+    "genero": "Rap",
+    "sexo": "Feminino",
+    "bpm": 127
+},
+{
+    "id": 137,
+    "cantor": "Nicki Minaj",
+    "musica": "Roman's Revenge",
+    "genero": "Rap",
+    "sexo": "Feminino",
+    "bpm": 112
+},
+{
+    "id": 138,
+    "cantor": "Megan Thee Stallion",
+    "musica": "Body",
+    "genero": "Rap",
+    "sexo": "Feminino",
+    "bpm": 94
+},
+{
+    "id": 139,
+    "cantor": "Megan Thee Stallion",
+    "musica": "Megan's Piano",
+    "genero": "Rap",
+    "sexo": "Feminino",
+    "bpm": 132
+},
+{
+    "id": 140,
+    "cantor": "Ice Spice",
+    "musica": "Princess Diana",
+    "genero": "Rap",
+    "sexo": "Feminino",
+    "bpm": 148
+},
+{
+    "id": 141,
+    "cantor": "Mac Miller",
+    "musica": "The Mourning After",
+    "genero": "Rap",
+    "sexo": "Masculino",
+    "bpm": 98
+},
+{
+    "id": 142,
+    "cantor": "Mac Miller",
+    "musica": "Congratulations",
+    "genero": "Rap",
+    "sexo": "Masculino",
+    "bpm": 80
+},
+{
+    "id": 143,
+    "cantor": "Eminem",
+    "musica": "Without Me",
+    "genero": "Rap",
+    "sexo": "Masculino",
+    "bpm": 112
+},
+{
+    "id": 144,
+    "cantor": "Eminem",
+    "musica": "Superman",
+    "genero": "Rap",
+    "sexo": "Masculino",
+    "bpm": 130
+},
+{
+    "id": 145,
+    "cantor": "Kendrick Lamar",
+    "musica": "HUMBLE",
+    "genero": "Rap",
+    "sexo": "Masculino",
+    "bpm": 150
+},
+{
+    "id": 146,
+    "cantor": "Kendrick Lamar",
+    "musica": "Swimming Pools (Drank)",
+    "genero": "Rap",
+    "sexo": "Masculino",
+    "bpm": 74
+},
+{
+    "id": 147,
+    "cantor": "Kanye West",
+    "musica": "Heartless",
+    "genero": "Rap",
+    "sexo": "Masculino",
+    "bpm": 88
+},
+{
+    "id": 148,
+    "cantor": "JAY-Z",
+    "musica": "4:44",
+    "genero": "Rap",
+    "sexo": "Masculino",
+    "bpm": 178
+},
+{
+    "id": 149,
+    "cantor": "Tyler, The Creator",
+    "musica": "EARFQUAKE",
+    "genero": "Rap",
+    "sexo": "Masculino",
+    "bpm": 80
+},
+{
+    "id": 150,
+    "cantor": "Tyler, The Creator",
+    "musica": "WAUSYANAME",
+    "genero": "Rap",
+    "sexo": "Masculino",
+    "bpm": 142
+},
+{
+    "id": 151,
+    "cantor": "Frank Ocean",
+    "musica": "Pyramids",
+    "genero": "Rap",
+    "sexo": "Masculino",
+    "bpm": 108
+},
+{
+    "id": 152,
+    "cantor": "Frank Ocean",
+    "musica": "White Ferrari",
+    "genero": "Rap",
+    "sexo": "Masculino",
+    "bpm": 109
+}
+]

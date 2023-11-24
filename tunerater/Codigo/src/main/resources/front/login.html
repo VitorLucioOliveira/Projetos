@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <a href="login.html"><img src="img/logo.png" alt="Logo"></a>
+            </div>
+
+            <ul>
+                
+            </ul>
+        </nav>
+    </header>
+
+    <div class="page">
+        <h2>Login</h2>
+        <form method="POST" class="formLogin" id = "formLogin">
+           
+            
+            <label for="email">E-mail</label>
+            <input type="email" id="email" placeholder="Digite seu e-mail" autofocus="true" />
+            <label for="password">Senha</label>
+            <input type="password" id="password" placeholder="Digite seu e-mail" />
+            <a href="cadastro.html">Não possui cadastro?</a>
+            <input type="submit" value="Acessar" class="btn" />
+            <p id="error-message" style="color: red;"></p>
+        </form>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="login.js"></script>
+    
+</body>

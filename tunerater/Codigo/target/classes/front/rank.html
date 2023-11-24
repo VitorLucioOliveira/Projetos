@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Top 10 Músicas Aleatórias</title>
+  <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <a href="index.html"><img src="img/logo.png" alt="Logo"></a>
+            </div>
+
+            <ul>
+              li><a href="rank.html">Ranking</a></li>
+              <li>|</li>
+              <li><a href="salvos.html">Salvos</a></li>
+              <li>|</li>
+              <li><a href="proposta.html">Proposta</a></li>
+              <li>|</li>
+              <li><a href="cadastro.html">Cadastro</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="page">
+      
+      <h2>Top 10 Músicas Sugestões</h2>
+      <div class="square">
+      <h2>Escolha o Gênero:</h2>
+      <div id="filtroGenero">
+        <label for="genero">Gênero:</label>
+        <select id="genero">
+          <option value="Pop">Pop</option>
+          <option value="Rap">Rap</option>
+          <option value="Indie">Indie</option>
+          <option value="Rock">Rock</option>
+          <option value="MPB">MPB</option>
+          <option value="Clássica">Clássica</option>
+          <option value="K-pop">k-pop</option>
+        </select>
+        <button onclick="filtrarPorGenero()">Filtrar</button>
+      </div>
+      <br>
+      <table id="musicTable">
+        <thead>
+          <tr>
+            <th>Título</th>
+            <th>Cantor</th>
+            <th>Gênero</th>
+            <th>BPM</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Aqui serão adicionadas as linhas da tabela dinamicamente -->
+        </tbody>
+      </table>
+      </div>
+</div>
+<script src="rank.js"></script>
+</body>
+</html>
