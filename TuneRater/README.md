@@ -21,3 +21,7 @@ Para ver o banco de dados funcionando:
 <br/>nome:     adm@tunerater
 <br/>senha:    Flavia222505
 <br/> esta no projeto para rodar, o Query é o tabalho
+
+## Instruções
+
+- Tenha o banco de dados login, com a tabela user
