@@ -1,0 +1,109 @@
+/* Reset básico para remover margens e paddings padrões */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #007DB1; /* Cor de fundo */
+    color: #333; /* Cor do texto */
+    padding: 10px; /* Espaçamento interno */
+    border: none;
+    width: 100%; /* Garante que o header ocupe toda a largura */
+}
+
+header img {
+    margin-left: 70px; /* Ajuste o valor conforme necessário */
+}
+
+.container {
+ display: flex;
+}
+
+
+
+.esquerda {
+    flex: 1;
+    background-color: #ffff;
+     min-height: 100px; /* Altura mínima para visualização */
+    
+}
+
+.esquerda h1{
+    color: #43a8df;
+    margin-left: 90px; 
+    padding-top: 70px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.esquerda p{
+    color: #302E2E;
+    margin-left: 90px; 
+    padding-top: 10px;
+    font-size: x-large;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.direita {
+    flex: 2;
+    background-color: #fff;
+    min-height: 100px; /* Altura mínima para visualização */
+    
+}
+
+.direita h1{
+    color: #43a8df;
+    margin-left: 90px; 
+    padding-top: 70px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.info {
+    color: #302E2E;
+    margin-left: 90px; 
+    padding-top: 10px;
+    font-size: x-large;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.info input {
+    display: block;
+    width: 80%; 
+    height: 40px; 
+    margin-top: 10px;
+    font-size: 1rem;
+    padding: 5px;
+}
+
+.info textarea {
+    font-family: 'Open Sans', sans-serif;
+    height: 200px;
+    display: block;
+    width: 80%;  
+    margin-top: 10px;
+    font-size: 1rem;
+    padding: 5px; /* Ajuste a altura conforme necessário */
+}
+
+button {
+    display: block;
+    margin-left: 90px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size:x-large;
+    background-color: #789619;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 74.2%; 
+    height: 60px;
+}
+
+button:hover {
+    background-color: #005f8b;
+}
+
